@@ -1,0 +1,2 @@
+# 3D-Zeit-A-Framework-for-Generating-3D-Model-as-an-AR-Object-Using-Object-Recognition
+AR integrates virtual and real worlds, providing users with new tools for efficiently transferring knowledge for a variety of operations in a variety of settings. This work presents a model to generate a real time 3-Dimensional model using 2D images of objects. The 3D model is then rendered as an AR object, which can be experienced in real time.
